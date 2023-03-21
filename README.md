@@ -13,6 +13,6 @@
 
 # Contact
 
-[![Contact Me](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/punsaporn-sirisumpund-b3631a140/))
+[![Contact Me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/punsaporn-sirisumpund-b3631a140/)
 
 
