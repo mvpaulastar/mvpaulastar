@@ -8,7 +8,7 @@
 
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,java,py,ts,react,wordpress,mysql,git,github)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,java,py,ts,react,wordpress,mysql,git,github,php,mongodb,express)]()
 
 
 
